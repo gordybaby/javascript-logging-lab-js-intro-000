@@ -44,3 +44,7 @@ describe('index', () => {
     })
   })
 })
+
+console.error("OOPS!");
+console.log("yo yo yo")
+console.warn("Look OUT!");
